@@ -1,0 +1,28 @@
+# Dr. Natty Strong: IA ou Natural? 💪🤖
+
+## 📒 Descrição
+Este projeto foi desenvolvido como parte do desafio "Lab Natty or Not" da DIO. Criei um avatar virtual chamado **Dr. Natty Strong**, um influenciador fitness com opiniões fortes sobre inteligência artificial, naturalidade e performance humana. Mas... será que ele é real ou gerado por IA?
+
+## 🤖 Tecnologias Utilizadas
+- **ChatGPT (OpenAI)** – Criação de roteiro e falas.
+- **DALL·E 3 (OpenAI)** – Geração de imagem do personagem.
+- **ElevenLabs** – Geração de voz realista.
+- **D-ID / HeyGen** – Animação facial do avatar virtual com fala sincronizada.
+- **CapCut / Canva** – Edição final do vídeo.
+
+## 🧐 Processo de Criação
+1. **Conceito**: Imaginei um influenciador fictício que questiona a fronteira entre IA e natureza.
+2. **Roteiro**: Usei o ChatGPT para escrever falas motivacionais e provocativas.
+3. **Imagem do Avatar**: Gerada com DALL·E 3.
+4. **Voz**: Sintetizada com ElevenLabs para soar como um verdadeiro coach fitness.
+5. **Vídeo**: O avatar foi animado com D-ID, sincronizando voz e movimento facial.
+6. **Edição**: Finalizei o vídeo com efeitos visuais e legendas no CapCut.
+
+## 🚀 Resultados
+- 🎥 [Clique aqui para assistir ao vídeo no YouTube](#) *(substitua pelo link real)*
+- 🖼️ Screenshot:
+  ![preview](./screenshot.png)
+
+## 💭 Reflexão
+Criar um personagem que parece humano, mas foi totalmente gerado por IA, é fascinante e um pouco assustador. A linha entre o "natty" e o "not" está cada vez mais borrada — especialmente no mundo digital. O desafio me mostrou como as ferramentas de IA estão acessíveis e poderosas para criadores de conteúdo.
+
